@@ -22,7 +22,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/Lg6vO9CNlQmUna1c
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Click_Me-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akmal-sharipov-760690205/)
 - :email: Reach me: [![Email Badge](https://img.shields.io/badge/Email_Me-dark_green?style=flat&logo=Email&logoColor=white)](sharipov044@mail.ru)
-- :bookmark_tabs: My CV: [![CV Badge](https://img.shields.io/badge/Review-yellow?style=flat&logo=Email&logoColor=yellow)](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fdrive%2Egoogle%2Ecom%2Ffile%2Fd%2F1R-LKq7suk3mT8kih-G8Qa4rlCrH-vo6x%2Fview%3Fusp%3Dsharing&urlhash=kmE7&trk=public_profile-settings_website)
+
 
 ---
 
